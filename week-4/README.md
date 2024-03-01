@@ -1,7 +1,7 @@
 This is **README** file
 
 # My Landing Website - My Course
-Layout: 
+Layout: https://iridescent-panda-ed9e01.netlify.app/
 
 Layout: https://aldazw.tech/
 
